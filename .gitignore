@@ -120,3 +120,10 @@ dist
 Cargo.lock
 
 *.node
+
+# vjpr
+
+.idea/aws.xml
+.idea/markdown-navigator-enh.xml
+.idea/markdown-navigator.xml
+.idea/hotswap_agent.xml
